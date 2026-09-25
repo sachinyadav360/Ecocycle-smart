@@ -1,0 +1,6 @@
+{
+  "name": "EcoCycle Smart",
+  "description": "Smart IoT-enabled waste-management, circular recycling, and eco-rewards platform connecting citizens, collectors, and recycling facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
